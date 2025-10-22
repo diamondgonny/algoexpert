@@ -1,4 +1,4 @@
-# 문제 풀이 1
+# 문제 풀이 1 (top-down)
 # This is the class of the input root. Do not edit it.
 class BinaryTree:
     def __init__(self, value):
@@ -24,7 +24,7 @@ def branchSums(root):
     return res
 
 
-# 문제 풀이 2
+# 문제 풀이 2 (bottom-up)
 # This is the class of the input root. Do not edit it.
 class BinaryTree:
     def __init__(self, value):
